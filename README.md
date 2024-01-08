@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grecoww
+- 👋 Hi, I’m Nicolas Greco
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning Python, Javascript, Typescript and Node.js
 - 📫 How to reach me:
